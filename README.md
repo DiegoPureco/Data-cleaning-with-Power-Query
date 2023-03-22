@@ -1,3 +1,3 @@
 # Data Cleaning with Power Query
 
-assets/ratings1.PNG
+![Image Text](https://github.com/DiegoPureco/Data-cleaning-with-Power-Query/blob/main/Capturas%20DataCleaning/Height%201%20clausulas%202.PNG)
